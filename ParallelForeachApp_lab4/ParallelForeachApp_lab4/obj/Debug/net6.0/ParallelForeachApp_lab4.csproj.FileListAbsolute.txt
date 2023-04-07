@@ -1,0 +1,15 @@
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\bin\Debug\net6.0\ParallelForeachApp_lab4.exe
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\bin\Debug\net6.0\ParallelForeachApp_lab4.deps.json
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\bin\Debug\net6.0\ParallelForeachApp_lab4.runtimeconfig.json
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\bin\Debug\net6.0\ParallelForeachApp_lab4.dll
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\bin\Debug\net6.0\ParallelForeachApp_lab4.pdb
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.csproj.AssemblyReference.cache
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.AssemblyInfoInputs.cache
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.AssemblyInfo.cs
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.csproj.CoreCompileInputs.cache
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.dll
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\refint\ParallelForeachApp_lab4.dll
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.pdb
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ParallelForeachApp_lab4.genruntimeconfig.cache
+C:\Users\garik\source\repos\ParallelForeachApp_lab4\ParallelForeachApp_lab4\obj\Debug\net6.0\ref\ParallelForeachApp_lab4.dll

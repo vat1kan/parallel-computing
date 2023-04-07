@@ -1,0 +1,15 @@
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\bin\Debug\net6.0\multitaskins_lab2.exe
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\bin\Debug\net6.0\multitaskins_lab2.deps.json
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\bin\Debug\net6.0\multitaskins_lab2.runtimeconfig.json
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\bin\Debug\net6.0\multitaskins_lab2.dll
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\bin\Debug\net6.0\multitaskins_lab2.pdb
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.csproj.AssemblyReference.cache
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.AssemblyInfoInputs.cache
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.AssemblyInfo.cs
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.csproj.CoreCompileInputs.cache
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.dll
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\refint\multitaskins_lab2.dll
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.pdb
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\multitaskins_lab2.genruntimeconfig.cache
+C:\Users\garik\source\repos\multitaskins_lab2\multitaskins_lab2\obj\Debug\net6.0\ref\multitaskins_lab2.dll
